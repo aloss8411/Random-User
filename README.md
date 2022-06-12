@@ -1,5 +1,5 @@
 # Random-User
-作品集1.Random User
+Random User
 
 使用功能：
 1.CoreDta儲存、刪除資料
